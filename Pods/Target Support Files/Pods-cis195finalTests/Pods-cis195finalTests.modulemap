@@ -1,0 +1,6 @@
+framework module Pods_cis195finalTests {
+  umbrella header "Pods-cis195finalTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
